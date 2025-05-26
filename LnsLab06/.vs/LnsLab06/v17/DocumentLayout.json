@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\LnsLab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\lnshome\\lnsprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\lnshome\\lnsprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\shared\\_lnslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\shared\\_lnslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\_lnsstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\_lnsstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\_lnsimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\_lnsimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\lnshome\\lnsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\lnshome\\lnsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\lnshome\\lnsinforstudnets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\lnshome\\lnsinforstudnets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\controllers\\lnshomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\controllers\\lnshomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\controllers\\lnsemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\controllers\\lnsemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\lnsemployee\\lnslistemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\lnsemployee\\lnslistemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\Zalo Received Files\\K23CNT1_LeNgocSon_2310900089_Project1\\NqtLab06\\Controllers\\NqtEmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\models\\lnsemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\models\\lnsemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\lnsemployee\\lnscreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\lnsemployee\\lnscreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\lnshome\\lnsrazorcode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\lnshome\\lnsrazorcode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|c:\\users\\admin\\source\\repos\\lnslab06\\lnslab06\\views\\lnshome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BCA59F-E8D3-443E-AAC7-8C1AAEEDA0F9}|LnsLab06\\LnsLab06.csproj|solutionrelative:lnslab06\\views\\lnshome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LnsHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Controllers\\LnsHomeController.cs",
+              "RelativeDocumentMoniker": "LnsLab06\\Controllers\\LnsHomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Controllers\\LnsHomeController.cs",
+              "RelativeToolTip": "LnsLab06\\Controllers\\LnsHomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:40:23.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LnsInforStudnets.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\LnsInforStudnets.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\LnsHome\\LnsInforStudnets.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\LnsInforStudnets.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\LnsHome\\LnsInforStudnets.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T01:53:19.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LnsIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\LnsIndex.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\LnsHome\\LnsIndex.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\LnsIndex.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\LnsHome\\LnsIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:58:17.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LnsImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\_LnsImports.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\_LnsImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\_LnsImports.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\_LnsImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:33:57.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LnsStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\_LnsStart.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\_LnsStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\_LnsStart.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\_LnsStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:32:52.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LnsLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\Shared\\_LnsLayout.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\Shared\\_LnsLayout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\Shared\\_LnsLayout.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\Shared\\_LnsLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:17:04.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LnsProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\LnsProfile.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\LnsHome\\LnsProfile.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\LnsProfile.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\LnsHome\\LnsProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T01:58:22.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Program.cs",
+              "RelativeDocumentMoniker": "LnsLab06\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Program.cs",
+              "RelativeToolTip": "LnsLab06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:33:40.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LnsEmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Controllers\\LnsEmployeeController.cs",
+              "RelativeDocumentMoniker": "LnsLab06\\Controllers\\LnsEmployeeController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Controllers\\LnsEmployeeController.cs",
+              "RelativeToolTip": "LnsLab06\\Controllers\\LnsEmployeeController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:51:02.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LnsLab06\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\appsettings.Development.json",
+              "RelativeToolTip": "LnsLab06\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T02:59:01.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LnsListEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsEmployee\\LnsListEmployee.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\LnsEmployee\\LnsListEmployee.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsEmployee\\LnsListEmployee.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\LnsEmployee\\LnsListEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:45:21.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LnsCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsEmployee\\LnsCreate.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\LnsEmployee\\LnsCreate.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsEmployee\\LnsCreate.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\LnsEmployee\\LnsCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:44:01.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LnsLab06\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LnsLab06\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:48:21.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LnsEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Models\\LnsEmployee.cs",
+              "RelativeDocumentMoniker": "LnsLab06\\Models\\LnsEmployee.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Models\\LnsEmployee.cs",
+              "RelativeToolTip": "LnsLab06\\Models\\LnsEmployee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:48:54.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NqtEmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Zalo Received Files\\K23CNT1_LeNgocSon_2310900089_Project1\\NqtLab06\\Controllers\\NqtEmployeeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Zalo Received Files\\K23CNT1_LeNgocSon_2310900089_Project1\\NqtLab06\\Controllers\\NqtEmployeeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Zalo Received Files\\K23CNT1_LeNgocSon_2310900089_Project1\\NqtLab06\\Controllers\\NqtEmployeeController.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Zalo Received Files\\K23CNT1_LeNgocSon_2310900089_Project1\\NqtLab06\\Controllers\\NqtEmployeeController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:49:38.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:18:14.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LnsRazorCode.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\LnsRazorCode.razor",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\LnsHome\\LnsRazorCode.razor",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\LnsRazorCode.razor",
+              "RelativeToolTip": "LnsLab06\\Views\\LnsHome\\LnsRazorCode.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T01:59:53.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LnsLab06\\Views\\LnsHome\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LnsLab06\\LnsLab06\\Views\\LnsHome\\Privacy.cshtml",
+              "RelativeToolTip": "LnsLab06\\Views\\LnsHome\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:19:46.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

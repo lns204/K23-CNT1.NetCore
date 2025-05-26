@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LnsLab06.props" />
+</Project>
