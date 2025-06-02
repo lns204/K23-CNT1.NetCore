@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LnsLab06
 build_property.RootNamespace = LnsLab06
-build_property.ProjectDir = C:\Users\admin\source\repos\LnsLab06\LnsLab06\
+build_property.ProjectDir = C:\Users\admin\source\repos\K23-CNT1.NetCore\LnsLab06\LnsLab06\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\admin\source\repos\LnsLab06\LnsLab06
+build_property.MSBuildProjectDirectory = C:\Users\admin\source\repos\K23-CNT1.NetCore\LnsLab06\LnsLab06
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/LnsHome/LnsRazorCode.razor]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/LnsHome/LnsRazorCode.razor]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG5zSG9tZVxMbnNSYXpvckNvZGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/LnsEmployee/LnsCreate.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/LnsEmployee/LnsCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG5zRW1wbG95ZWVcTG5zQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/LnsEmployee/LnsListEmployee.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/LnsEmployee/LnsListEmployee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG5zRW1wbG95ZWVcTG5zTGlzdEVtcGxveWVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/LnsHome/LnsIndex.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/LnsHome/LnsIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG5zSG9tZVxMbnNJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/LnsHome/LnsInforStudnets.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/LnsHome/LnsInforStudnets.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG5zSG9tZVxMbnNJbmZvclN0dWRuZXRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/LnsHome/LnsProfile.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/LnsHome/LnsProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG5zSG9tZVxMbnNQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/LnsHome/Privacy.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/LnsHome/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG5zSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/Shared/Error.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/_LnsImports.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/_LnsImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0xuc0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/_LnsStart.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/_LnsStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0xuc1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/LnsLab06/LnsLab06/Views/Shared/_LnsLayout.cshtml]
+[C:/Users/admin/source/repos/K23-CNT1.NetCore/LnsLab06/LnsLab06/Views/Shared/_LnsLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MbnNMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-va6rq7accj

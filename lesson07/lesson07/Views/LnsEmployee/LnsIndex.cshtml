@@ -1,0 +1,87 @@
+﻿@model IEnumerable<lesson07.Models.LnsEmployee>
+
+@{
+    ViewData["Title"] = "Tạo mới nhân viên";
+}
+
+<h1>LnsIndex</h1>
+
+<p>
+    <a asp-action="LnsCreate" class="btn btn-info">Thêm mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LnsID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LnsName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LnsEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LnsBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LnsPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LnsSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LnsStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LnsID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LnsName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LnsEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LnsBirthDay)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LnsPhone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LnsSalary)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LnsStatus)
+                    @if (item.LnsStatus)
+                    {
+                        @:Đang làm
+                    }
+                    else
+                    {
+                        @:Nghỉ làm
+                    }
+                </td>
+                <td class="text-center">
+                    <a href="@Url.Action("LnsEdit", new { id = item.LnsID })" class="btn btn-sm btn-primary me-1" title="Sửa">
+                        <i class="fas fa-edit"></i> Sửa
+                    </a>
+                    <a href="@Url.Action("LnsDetail", new { id = item.LnsID })" class="btn btn-sm btn-info me-1" title="Chi tiết">
+                        <i class="fas fa-info-circle"></i> Chi tiết
+                    </a>
+                    <a href="@Url.Action("LnsDelete", new { id = item.LnsID })" class="btn btn-sm btn-danger" title="Xoá" onclick="return confirm('Bạn có chắc muốn xóa?');">
+                        <i class="fas fa-trash-alt"></i> Xoá
+                    </a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

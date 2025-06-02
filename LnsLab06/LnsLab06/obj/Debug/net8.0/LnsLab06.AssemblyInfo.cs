@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LnsLab06")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d500e380ab9b853a385ba90df2b34e9a5c2c439")]
 [assembly: System.Reflection.AssemblyProductAttribute("LnsLab06")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LnsLab06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
