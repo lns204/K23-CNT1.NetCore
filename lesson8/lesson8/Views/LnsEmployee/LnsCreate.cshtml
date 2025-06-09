@@ -1,0 +1,60 @@
+﻿@model lesson08.Models.LnsEmployee
+
+@{
+    ViewData["Title"] = "LnsCreate";
+}
+
+<h1>LnsCreate</h1>
+
+<h4>LnsEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="LnsCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="LnsID" class="control-label"></label>
+                <input asp-for="LnsID" class="form-control" />
+                <span asp-validation-for="LnsID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LnsName" class="control-label"></label>
+                <input asp-for="LnsName" class="form-control" />
+                <span asp-validation-for="LnsName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LnsEmail" class="control-label"></label>
+                <input asp-for="LnsEmail" class="form-control" />
+                <span asp-validation-for="LnsEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LnsBirthDay" class="control-label"></label>
+                <input asp-for="LnsBirthDay" class="form-control" />
+                <span asp-validation-for="LnsBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LnsPhone" class="control-label"></label>
+                <input asp-for="LnsPhone" class="form-control" />
+                <span asp-validation-for="LnsPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LnsSalary" class="control-label"></label>
+                <input asp-for="LnsSalary" class="form-control" />
+                <span asp-validation-for="LnsSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="LnsStatus" /> @Html.DisplayNameFor(model => model.LnsStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="LnsIndex">Back to List</a>
+</div>
+
